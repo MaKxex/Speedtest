@@ -1,2 +1,2 @@
 # Speedtest
-SpeedtestCLI parser without URL
+SpeedtestCLI parser
